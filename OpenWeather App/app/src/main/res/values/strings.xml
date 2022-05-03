@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+    <string name="main_activity_title">"OpenWeather App"</string>
+    <string name="api_key">ce4295954ba7183fa4d484f28434b96a</string>
+    <string name="no_network_connection">No Network Connection</string>
+    <string name="unit">unit</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="locale">locale</string>
+    <string name="weather">weather</string>
+    <string name="metric">metric</string>
+    <string name="imperial">imperial</string>
+    <string name="centigrade">Centigrade</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="location">Location</string>
+    <string name="item">Item</string>
+    <string name="change_location_title">Enter a Location</string>
+    <string name="change_location_message">"For US locations, enter as 'City', or 'City, State'\n\n"
+        "For international locations enter as 'City, Country' "</string>
+    <string name="invalid_city">Please enter a valid city and/or country</string>
+    <string name="no_loc_change">No change in location</string>
+    <string name="uv_index">UV Index: </string>
+    <string name="today_text">Today</string>
+</resources>
